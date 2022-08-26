@@ -1,0 +1,14 @@
+body,div{
+    margin:0;
+}
+.box{
+    background-color: #136C72;
+    padding:7.625rem;
+}
+.container{
+    width:50%;
+    max-width:768px;
+}
+button{
+    background: #38CFD9;
+}
